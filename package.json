@@ -1,6 +1,6 @@
 {
   "name": "react-employee-directory",
-  "homepage": "https://yarocruz.github.io/react-employee-directory",
+  "homepage": " ",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build -b master -d build",
     "start": "npm run watch:css && react-scripts start",
     "build": "npm run build:css && react-scripts build",
     "test": "react-scripts test",
