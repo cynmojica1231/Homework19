@@ -1,20 +1,20 @@
 {
   "name": "react-employee-directory",
-  "homepage": " ",
+  "homepage": "https://cynmojica1231.github.io/Homework19/ ",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-    "gh-pages": "^2.2.0",
+    "build": "^0.1.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "npm run watch:css && react-scripts start",
     "build": "npm run build:css && react-scripts build",
     "test": "react-scripts test",
@@ -39,6 +39,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.7.6",
+    "gh-pages": "^2.2.0",
     "postcss-cli": "^7.1.1",
     "tailwindcss": "^1.4.5"
   }
