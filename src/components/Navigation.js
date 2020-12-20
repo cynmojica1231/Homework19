@@ -1,6 +1,6 @@
 import React from "react";
 
-function Navigation({ onSearch, searchTerm, handleSortByName, handleSortByDept }) { // The two props coming down from the Navigation Component
+function Navigation({ onSearch, searchTerm, handleSortByName, handleSortByDept }) {  
     return (
         <div className="md:flex justify-between my-6">
             <div className="md:mb-0 mb-4">
@@ -9,9 +9,8 @@ function Navigation({ onSearch, searchTerm, handleSortByName, handleSortByDept }
             </div>
             <form>
                 <input
-                    value={searchTerm} // value attribute here keeps what you type in sync
-                    onChange={onSearch} // the onChange is the event listening attribute that uses the onSearch prop method let state know there was a change
-                    className="shadow pl-5 rounded w-full py-1"
+                    value={searchTerm}  
+                    onChange={onSearch}  
                     type="text"
                     placeholder="search employee"/>
             </form>

@@ -1,226 +1,226 @@
 [
   {
     "id": 1,
-    "image": "./src/assets/images/Cynthia.jpg ",
-    "name": "Lisa Simpson",
-    "department": "Sales",
-    "email": "lissimp@email.com",
-    "phone": "555-321-2345"
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Cynthia.jpg ",
+    "name": "Cynthia Mojica",
+    "department": "Management",
+    "email": "cynm@mail.com",
+    "phone": "650-323-7889"
   },
   {
     "id": 2,
-    "image": "https://randomuser.me/api/portraits/men/90.jpg",
-    "name": "Troy McGibbons",
-    "department": "Engineering",
-    "email": "troydog@email.com",
-    "phone": "555-012-3456"
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Buck.jpg",
+    "name": "Buck Harris",
+    "department": "Management",
+    "email": "bharr@mail.com",
+    "phone": "650-321-3092"
   },
   {
     "id": 3,
-    "image": "https://randomuser.me/api/portraits/women/77.jpg",
-    "name": "Sandra Lopez",
-    "department": "Design",
-    "email": "salola@email.com",
-    "phone": "555-456-7890"
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Emman.jpg",
+    "name": "Emman Mojica",
+    "department": "Management",
+    "email": "emman@mail.com",
+    "phone": "650-416-5690"
   },
   {
     "id": 4,
-    "image": "https://randomuser.me/api/portraits/men/35.jpg",
-    "name": "Tyler Durden",
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Jonas.jpg",
+    "name": "Jonas Escoesta",
     "department": "Logistics",
-    "email": "projectmayhem@email.com",
-    "phone": "555-654-9876"
+    "email": "jescoesta@mail.com",
+    "phone": "650-654-2876"
   },
   {
     "id": 5,
-    "image": "https://randomuser.me/api/portraits/women/51.jpg",
-    "name": "Kristen Stewart",
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Jackie.jpg",
+    "name": "Jackie Chavez",
     "department": "Marketing",
-    "email": "kikip@email.com",
-    "phone": "555-987-9876"
+    "email": "jchavez@mail.com",
+    "phone": "650-888-7823"
   },
   {
     "id": 6,
-    "image": "https://randomuser.me/api/portraits/men/48.jpg",
-    "name": "Ray Romano",
-    "department": "Management",
-    "email": "royro@email.com",
-    "phone": "555-435-6748"
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Colin.jpg",
+    "name": "Colin Quinn",
+    "department": "Marketing",
+    "email": "colin@email.com",
+    "phone": "650-523-4512"
   },
   {
     "id": 7,
-    "image": "https://randomuser.me/api/portraits/women/66.jpg",
-    "name": "Brenda Walsh",
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/MK.jpg",
+    "name": "Miguel Juancho",
     "department": "Logistics",
-    "email": "90210@email.com",
-    "phone": "555-666-7766"
+    "email": "miguel@mail.com",
+    "phone": "650-987-5321"
   },
   {
     "id": 8,
-    "image": "https://randomuser.me/api/portraits/men/25.jpg",
-    "name": "Booth Horvath",
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Mayet.jpg",
+    "name": "Mayeth Mata",
     "department": "Marketing",
-    "email": "booboo@email.com",
-    "phone": "555-223-4334"
+    "email": "mayet@mail.com",
+    "phone": "650-987-4562"
   },
   {
     "id": 9,
-    "image": "https://randomuser.me/api/portraits/women/44.jpg",
-    "name": "Jessa Robinson",
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/isis.jpg",
+    "name": "Isis Gozon",
     "department": "Sales",
-    "email": "jezebelish@email.com",
-    "phone": "555-451-9974"
+    "email": "isis@mail.com",
+    "phone": "650-554-6326"
   },
   {
     "id": 10,
-    "image": "https://randomuser.me/api/portraits/men/99.jpg",
-    "name": "Ira Glass",
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Mark.jpg",
+    "name": "Mark Tandang",
     "department": "Engineering",
-    "email": "tal@email.com",
-    "phone": "555-111-3322"
+    "email": "mark@mail.com",
+    "phone": "650-562-9843"
   },
   {
     "id": 11,
-    "image": "https://randomuser.me/api/portraits/women/87.jpg",
-    "name": "Andrea Russo",
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Teena.png",
+    "name": "Teena Mojica",
     "department": "Admin",
-    "email": "russ@email.com",
-    "phone": "555-110-1110"
+    "email": "teena@mail.com",
+    "phone": "650-953-4523"
   },
   {
     "id": 12,
-    "image": "https://randomuser.me/api/portraits/men/45.jpg",
-    "name": "Charles Barkley",
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Raymond.jpg",
+    "name": "Raymond Tandang",
     "department": "Design",
-    "email": "charles@email.com",
-    "phone": "555-001-0001"
+    "email": "rroster@mail.com",
+    "phone": "650-235-8531"
   },
   {
     "id": 13,
-    "image": "https://randomuser.me/api/portraits/women/39.jpg",
-    "name": "Diana Cheddar",
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Bryan.jpg",
+    "name": "Bryan Nuestro",
     "department": "Engineering",
-    "email": "didi@email.com",
-    "phone": "555-200-0002"
+    "email": "bnuestro@email.com",
+    "phone": "650-900-6542"
   },
   {
     "id": 14,
-    "image": "https://randomuser.me/api/portraits/men/12.jpg",
-    "name": "Emerson Downing",
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Mohammad.jpg",
+    "name": "Mohammad Islam",
     "department": "Engineering",
-    "email": "eme@email.com",
-    "phone": "555-201-1002"
+    "email": "moislam@email.com",
+    "phone": "650-423-8572"
   },
   {
     "id": 15,
-    "image": "https://randomuser.me/api/portraits/women/12.jpg",
-    "name": "Frances Robinson",
-    "department": "Management",
-    "email": "fran@email.com",
-    "phone": "555-300-1003"
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Emma.jpg",
+    "name": "Emma Mojica",
+    "department": "Finance",
+    "email": "emma@mail.com",
+    "phone": "650-532-1122"
   },
   {
     "id": 16,
-    "image": "https://randomuser.me/api/portraits/men/23.jpg",
-    "name": "Gabriel Rodriguez",
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Nancy.jpg",
+    "name": "Nancy Austria",
     "department": "Sales",
-    "email": "gabbagabba@email.com",
-    "phone": "555-301-1020"
+    "email": "naustria@mail.com",
+    "phone": "650-897-3521"
   },
   {
     "id": 17,
-    "image": "https://randomuser.me/api/portraits/women/23.jpg",
-    "name": "Hannah Montana",
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Ritchmond.jpg",
+    "name": "Ritchmond Tandang",
     "department": "Design",
-    "email": "bananarama@email.com",
-    "phone": "555-333-1020"
+    "email": "rmall@mail.com",
+    "phone": "650-632-1240"
   },
   {
     "id": 18,
-    "image": "https://randomuser.me/api/portraits/men/44.jpg",
-    "name": "Michael Scott",
-    "department": "Management",
-    "email": "thatswhatshesaid@email.com",
-    "phone": "555-633-1020"
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Riza.jpeg",
+    "name": "Riza Mojica",
+    "department": "Finance",
+    "email": "rmojica@mail.com",
+    "phone": "650-852-9991"
   },
   {
     "id": 19,
-    "image": "https://randomuser.me/api/portraits/women/42.jpg",
-    "name": "Nancy Fey",
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Marilyn.jpg",
+    "name": "Marilyn Harris",
     "department": "Marketing",
-    "email": "nanana@email.com",
-    "phone": "555-777-1020"
+    "email": "mlores@mail.com",
+    "phone": "650-987-5289"
   },
   {
     "id": 20,
-    "image": "https://randomuser.me/api/portraits/men/3.jpg",
-    "name": "Oscar Schindler",
-    "department": "Management",
-    "email": "oscar@email.com",
-    "phone": "555-777-7000"
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Rhia.jpg",
+    "name": "Rhia Dela Cruz",
+    "department": "Sales",
+    "email": "rhia@mail.com",
+    "phone": "650-757-7145"
   },
   {
     "id": 21,
-    "image": "https://randomuser.me/api/portraits/women/3.jpg",
-    "name": "Petula Morrison",
-    "department": "Design",
-    "email": "petulia@email.com",
-    "phone": "555-666-7000"
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Regina.jpg",
+    "name": "Regina Mata",
+    "department": "HR",
+    "email": "rmata@mail.com",
+    "phone": "650-562-9563"
   },
   {
     "id": 22,
-    "image": "https://randomuser.me/api/portraits/men/91.jpg",
-    "name": "Quinn Sanders",
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Len-len.jpeg",
+    "name": "Aprylin Angcaya",
     "department": "Sales",
-    "email": "quinnylover@email.com",
-    "phone": "555-666-8888"
+    "email": "alove@mail.com",
+    "phone": "650-556-3214"
   },
   {
     "id": 23,
-    "image": "https://randomuser.me/api/portraits/women/91.jpg",
-    "name": "Ursula Peterson",
-    "department": "Engineering",
-    "email": "ur@email.com",
-    "phone": "555-123-8888"
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Joselyn.jpg",
+    "name": "Joselyn Torio",
+    "department": "Design",
+    "email": "jocelyn@mail.com",
+    "phone": "650-452-8888"
   },
   {
     "id": 24,
-    "image": "https://randomuser.me/api/portraits/men/75.jpg",
-    "name": "Victor Hugo",
-    "department": "Design",
-    "email": "hugs@email.com",
-    "phone": "555-666-1234"
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Domingo.jpg",
+    "name": "Domingo Austria",
+    "department": "Marketing",
+    "email": "doms@mail.com",
+    "phone": "650-333-4587"
   },
   {
     "id": 25,
-    "image": "https://randomuser.me/api/portraits/women/75.jpg",
-    "name": "Wanda Sikes",
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Carlie.jpg",
+    "name": "Carlie Valbuena",
     "department": "Marketing",
-    "email": "sike@email.com",
-    "phone": "555-678-4000"
+    "email": "carlie@mail.com",
+    "phone": "650-678-4140"
   },
   {
     "id": 26,
-    "image": "https://randomuser.me/api/portraits/men/32.jpg",
-    "name": "Xavier Burns",
-    "department": "Engineering",
-    "email": "xman@email.com",
-    "phone": "555-321-3456"
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Pol.jpg",
+    "name": "Florence Austria",
+    "department": "HR",
+    "email": "flence@mail.com",
+    "phone": "650-858-4562"
   },
   {
     "id": 27,
-    "image": "https://randomuser.me/api/portraits/women/54.jpg",
-    "name": "Yolanda Rivera",
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Arphyl.jpg",
+    "name": "Arphyl Angacaya",
     "department": "Sales",
-    "email": "yolo@email.com",
-    "phone": "555-765-1234"
+    "email": "r-phyl@mail.com",
+    "phone": "650-412-4451"
   },
   {
     "id": 28,
-    "image": "https://randomuser.me/api/portraits/men/54.jpg",
-    "name": "Zach Morris",
+    "image": "https://raw.githubusercontent.com/cynmojica1231/Homework19/master/src/assets/images/Janet.jpg",
+    "name": "Janet Jacalan",
     "department": "Sales",
-    "email": "zakattack@email.com",
-    "phone": "555-800-8877"
+    "email": "janet@mail.com",
+    "phone": "650-478-1020"
   }
 ]
