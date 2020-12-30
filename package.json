@@ -1,6 +1,10 @@
 {
   "name": "react-employee-directory",
+<<<<<<< HEAD
   "homepage": "https://github.com/cynmojica1231/Homework19/tree/gh-pages",
+=======
+  "homepage": "https://github.com/cynmojica1231/Homework19/tree/gh-pages ",
+>>>>>>> origin
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,9 +18,15 @@
   },
   "scripts": {
     "predeploy": "npm run build",
+<<<<<<< HEAD
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
+=======
+    "deploy": "gh-pages -d build -b master",
+    "start": "npm run watch:css && react-scripts start",
+    "build": "npm run build:css && react-scripts build",
+>>>>>>> origin
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "build:css": "postcss src/assets/tailwind.css -o src/assets/main.css",
