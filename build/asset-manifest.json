@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Homework19/%20/static/css/main.3d85f249.chunk.css",
-    "main.js": "/Homework19/%20/static/js/main.9a60275a.chunk.js",
-    "main.js.map": "/Homework19/%20/static/js/main.9a60275a.chunk.js.map",
-    "runtime-main.js": "/Homework19/%20/static/js/runtime-main.d6820c6c.js",
-    "runtime-main.js.map": "/Homework19/%20/static/js/runtime-main.d6820c6c.js.map",
-    "static/js/2.cc749190.chunk.js": "/Homework19/%20/static/js/2.cc749190.chunk.js",
-    "static/js/2.cc749190.chunk.js.map": "/Homework19/%20/static/js/2.cc749190.chunk.js.map",
-    "index.html": "/Homework19/%20/index.html",
-    "precache-manifest.f890f79303fe69a77b7b17091bf33e05.js": "/Homework19/%20/precache-manifest.f890f79303fe69a77b7b17091bf33e05.js",
-    "service-worker.js": "/Homework19/%20/service-worker.js",
-    "static/css/main.3d85f249.chunk.css.map": "/Homework19/%20/static/css/main.3d85f249.chunk.css.map",
-    "static/js/2.cc749190.chunk.js.LICENSE.txt": "/Homework19/%20/static/js/2.cc749190.chunk.js.LICENSE.txt",
-    "static/media/Cali-name-logo.jpg": "/Homework19/%20/static/media/Cali-name-logo.436cf71a.jpg"
+    "main.css": "/cynmojica1231/Homework19/tree/gh-pages/static/css/main.3d85f249.chunk.css",
+    "main.js": "/cynmojica1231/Homework19/tree/gh-pages/static/js/main.9a60275a.chunk.js",
+    "main.js.map": "/cynmojica1231/Homework19/tree/gh-pages/static/js/main.9a60275a.chunk.js.map",
+    "runtime-main.js": "/cynmojica1231/Homework19/tree/gh-pages/static/js/runtime-main.13dc56b6.js",
+    "runtime-main.js.map": "/cynmojica1231/Homework19/tree/gh-pages/static/js/runtime-main.13dc56b6.js.map",
+    "static/js/2.cc749190.chunk.js": "/cynmojica1231/Homework19/tree/gh-pages/static/js/2.cc749190.chunk.js",
+    "static/js/2.cc749190.chunk.js.map": "/cynmojica1231/Homework19/tree/gh-pages/static/js/2.cc749190.chunk.js.map",
+    "index.html": "/cynmojica1231/Homework19/tree/gh-pages/index.html",
+    "precache-manifest.fb65732f36b19c816138e311ffe64405.js": "/cynmojica1231/Homework19/tree/gh-pages/precache-manifest.fb65732f36b19c816138e311ffe64405.js",
+    "service-worker.js": "/cynmojica1231/Homework19/tree/gh-pages/service-worker.js",
+    "static/css/main.3d85f249.chunk.css.map": "/cynmojica1231/Homework19/tree/gh-pages/static/css/main.3d85f249.chunk.css.map",
+    "static/js/2.cc749190.chunk.js.LICENSE.txt": "/cynmojica1231/Homework19/tree/gh-pages/static/js/2.cc749190.chunk.js.LICENSE.txt",
+    "static/media/Cali-name-logo.jpg": "/cynmojica1231/Homework19/tree/gh-pages/static/media/Cali-name-logo.436cf71a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6820c6c.js",
+    "static/js/runtime-main.13dc56b6.js",
     "static/js/2.cc749190.chunk.js",
     "static/css/main.3d85f249.chunk.css",
     "static/js/main.9a60275a.chunk.js"
